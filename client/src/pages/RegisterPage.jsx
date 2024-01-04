@@ -9,6 +9,8 @@ export default function RegisterPage(){
         fetch
     }
 
+
+    
     return (
         <div className="mt-4 grow flex items-center justify-around">
 
